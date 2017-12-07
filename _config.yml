@@ -2,23 +2,23 @@
 title: Anthony | anthonyawuley.github.io
 email: anthony@awuley.com
 description: Some text about your blog.
-baseurl: "/anthonyawuley.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://anthonyawuley.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: anthonyawuley
-user_description: Some text about you.
-disqus_username: disqus_username
+user_description: Machine Learning Research Scientist
+disqus_username: anthonyawuley
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: anthonyawuley
+facebook_username: anthonyawuley
+twitter_username: anthonyawuley
+instagram_username: anthonyawuley
+linkedin_username: anthonyawuley
+medium_username: anthonyawuley
 
 # Build settings
 markdown: kramdown
