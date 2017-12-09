@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -13,16 +13,16 @@ title                    : "Anthony Awuley"
 title_separator          : "-"
 name                     : "Anthony Awuley"
 description              : "Personal Blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://anthonyawuley.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "https://anthonyawuley.disqus.com/admin/" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:

@@ -1,0 +1,14 @@
+Anthony Awuley:
+  name: "Anthony Awuley"
+  uri: "http://anthonyawuley.com"
+  email: "anthony@awuley.com"
+  bio: "Machine Learning Research Scientist"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "anthonyawuley"
+
+Cornelius Fiddlebone:
+  name: "Cornelius Fiddlebone"
+  email: "cornelius@thewhip.com"
+  bio: "I ordered what?"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: "rhymeswithsackit"
