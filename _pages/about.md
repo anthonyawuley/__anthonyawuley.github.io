@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About Anthony Awuley"
-author_profile: true
+author_profile: false
 permalink: /about/
 excerpt: "Examples and code for displaying images in posts."
 header:
