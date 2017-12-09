@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Anthony Awuley"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anthony Awuley"
+description              : "Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,25 +83,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
+  name             : "Anthony Awuley"
+  avatar           : "http://anthonyawuley.com/images/me.jpg?v=2" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Machine Learning Research Scientist"
+  location         : "Toronto"
+  email            : "anthony@awuley.com"
+  uri              : "http://anthonyawuley.com"
+  bitbucket        : "anthonyawuley"
+  codepen          : 
+  dribbble         : "anthonyawuley"
   flickr           :
-  facebook         :
+  facebook         : "anthonyawuley"
   foursquare       :
-  github           :
-  gitlab           :
+  github           : "anthonyawuley"
+  gitlab           : "anthonyawuley"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "anthonyawuley" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/anthonyawuley/" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
