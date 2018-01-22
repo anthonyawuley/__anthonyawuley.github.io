@@ -106,7 +106,7 @@ author:
   soundcloud       : "anthonyawuley"
   stackoverflow    : "3277442/anthony-awuley" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           : 
+  tumblr           :
   twitter          : "anthonyawuley"
   vine             :
   weibo            :
@@ -237,6 +237,20 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
