@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : minimal-mistakes-jekyll # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -90,10 +90,10 @@ author:
   email            : "anthony@awuley.com"
   uri              : "http://anthonyawuley.com"
   bitbucket        : "anthonyawuley"
-  codepen          : "anthonyawuley"
-  dribbble         : "anthonyawuley"
+  codepen          : # "anthonyawuley"
+  dribbble         :
   flickr           :
-  facebook         : "anthonyawuley"
+  facebook         :
   foursquare       :
   github           : "anthonyawuley"
   gitlab           : "anthonyawuley"
@@ -103,7 +103,7 @@ author:
   lastfm           :
   linkedin         : "anthonyawuley" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       : "anthonyawuley"
+  soundcloud       :
   stackoverflow    : "3277442/anthony-awuley" # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
@@ -111,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/anthonyawuley/" # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://youtube.com/anthonyawuley/" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
