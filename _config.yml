@@ -248,7 +248,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  _ posts
   - scope:
       path: ""
       type: posts
